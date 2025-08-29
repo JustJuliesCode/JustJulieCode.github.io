@@ -1,0 +1,7 @@
+/* Custom CSS overrides.
+  This file is included after "theme.css".
+  Hence no variable overrides should be defined here,
+  unless they are to be local (to this file).
+
+  Variable overrides should be defined in "custom_vars.css".
+*/

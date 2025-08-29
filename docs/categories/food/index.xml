@@ -1,39 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Food on HUGO MyPortfolio Theme</title>
-    <link>http://localhost:1313/categories/food/</link>
-    <description>Recent content in Food on HUGO MyPortfolio Theme</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="http://localhost:1313/categories/food/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>MOO MOO</title>
-      <link>http://localhost:1313/perso/food/moo-moo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/perso/food/moo-moo/</guid>
-      <description>&lt;p&gt;Description:&#xA;Some food from Moo Moo Steak house in Saigon.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Some post</title>
-      <link>http://localhost:1313/perso/food/no-photos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/perso/food/no-photos/</guid>
-      <description>&lt;p&gt;Description:&#xA;This is just a simple post with no photos&amp;hellip;&#xA;Hence it doesn&amp;rsquo;t have to be a bundle and can be a simple &amp;ldquo;md&amp;rdquo; file.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The One Project</title>
-      <link>http://localhost:1313/pro/client-x/single-project/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pro/client-x/single-project/</guid>
-      <description>&lt;p&gt;This one was somehow related to food.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Vietnam</title>
-      <link>http://localhost:1313/perso/food/vietnam/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/perso/food/vietnam/</guid>
-      <description>&lt;p&gt;Description:&#xA;Food from different places in Saigon.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Food on HUGO MyPortfolio Theme</title><link>https://example.org/categories/food/</link><description>Recent content in Food on HUGO MyPortfolio Theme</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://example.org/categories/food/index.xml" rel="self" type="application/rss+xml"/><item><title>MOO MOO</title><link>https://example.org/perso/food/moo-moo/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/perso/food/moo-moo/</guid><description>&lt;p>Description:
+Some food from Moo Moo Steak house in Saigon.&lt;/p></description></item><item><title>Some post</title><link>https://example.org/perso/food/no-photos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/perso/food/no-photos/</guid><description>&lt;p>Description:
+This is just a simple post with no photos&amp;hellip;
+Hence it doesn&amp;rsquo;t have to be a bundle and can be a simple &amp;ldquo;md&amp;rdquo; file.&lt;/p></description></item><item><title>The One Project</title><link>https://example.org/pro/client-x/single-project/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/pro/client-x/single-project/</guid><description>&lt;p>This one was somehow related to food.&lt;/p></description></item><item><title>Vietnam</title><link>https://example.org/perso/food/vietnam/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/perso/food/vietnam/</guid><description>&lt;p>Description:
+Food from different places in Saigon.&lt;/p></description></item></channel></rss>

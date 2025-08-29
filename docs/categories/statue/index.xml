@@ -1,25 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Statue on HUGO MyPortfolio Theme</title>
-    <link>http://localhost:1313/categories/statue/</link>
-    <description>Recent content in Statue on HUGO MyPortfolio Theme</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="http://localhost:1313/categories/statue/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Human Statues</title>
-      <link>http://localhost:1313/perso/statues/humans/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/perso/statues/humans/</guid>
-      <description>&lt;p&gt;Description:&#xA;Statues from Cham museum in Da Nang, Vietnam.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Other Statues</title>
-      <link>http://localhost:1313/perso/statues/others/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/perso/statues/others/</guid>
-      <description>&lt;p&gt;Description:&#xA;Statues from Cham museum in Da Nang, Vietnam.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Statue on HUGO MyPortfolio Theme</title><link>https://example.org/categories/statue/</link><description>Recent content in Statue on HUGO MyPortfolio Theme</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://example.org/categories/statue/index.xml" rel="self" type="application/rss+xml"/><item><title>Human Statues</title><link>https://example.org/perso/statues/humans/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/perso/statues/humans/</guid><description>&lt;p>Description:
+Statues from Cham museum in Da Nang, Vietnam.&lt;/p></description></item><item><title>Other Statues</title><link>https://example.org/perso/statues/others/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/perso/statues/others/</guid><description>&lt;p>Description:
+Statues from Cham museum in Da Nang, Vietnam.&lt;/p></description></item></channel></rss>
